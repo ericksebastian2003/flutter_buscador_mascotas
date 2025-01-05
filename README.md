@@ -37,18 +37,12 @@ https://dog.ceo/api/breeds/list/all
 ![Inicio](img/img2.png)
 4. Se te apertura una ventana emergente donde colocarás el nombre de la aplicación y el .apk
 ![Ventana emergente](img/img3.png)
-Se debe esperar a que se suba la aplicación
+5. Se debe esperar a que se suba la aplicación
 ![Ventana emergente](img/img4.png)
-5. Una vez se cargue completamente la aplicación , se solicitará información referente a la aplicación : versiones , idioma  capturas de la aplicación , etc.
+6. Una vez se cargue completamente la aplicación , se solicitará información referente a la aplicación : versiones , idioma  capturas de la aplicación , etc.
 ![Configuraciones y descripción de la aplicación](img/img5.png)
-6. Por último se guarda cambios y se espera a la revisión por parte de la plataforma
-## Captura de la aplicación
+7. Por último se guarda cambios y se espera a la revisión por parte de la plataforma
 ![Revisión](img/img6.png)
-![Captura Pokemon](img/pokemonapp1.png)
-![Captura Pokemon](img/pokemonapp.png)
-![Captura ApiDog](img/dogap1.png)
-![Captura ApiDog](img/dogapi.png)
-
 
 
 
