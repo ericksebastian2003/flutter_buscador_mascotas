@@ -28,20 +28,29 @@ La aplicación realiza una llamada a la API para obtener la lista de todas las r
 - **Endpoint para obtener la lista de razas**:
 https://dog.ceo/api/breeds/list/all
 
+### Subir la aplicación a UpToDown
+1. Se debe crear una cuenta como desarrollador en [UPTODOWN CONSOLE](https://www.uptodown.dev/#/)
+![Login](img/login.png)
+2. Una vez creada la cuenta como desarrollador , te aparecerá la siguiente ventana
+![Inicio](img/img1.png)
+3. Da clic en "Subir App"
+![Inicio](img/img2.png)
+4. Se te apertura una ventana emergente donde colocarás el nombre de la aplicación y el .apk
+![Ventana emergente](img/img3.png)
+Se debe esperar a que se suba la aplicación
+![Ventana emergente](img/img4.png)
+5. Una vez se cargue completamente la aplicación , se solicitará información referente a la aplicación : versiones , idioma  capturas de la aplicación , etc.
+![Configuraciones y descripción de la aplicación](img/img5.png)
+6. Por último se guarda cambios y se espera a la revisión por parte de la plataforma
 ## Captura de la aplicación
+![Revisión](img/img6.png)
 ![Captura Pokemon](img/pokemonapp1.png)
 ![Captura Pokemon](img/pokemonapp.png)
 ![Captura ApiDog](img/dogap1.png)
 ![Captura ApiDog](img/dogapi.png)
 
 
-## Requisitos
 
-Para ejecutar esta aplicación, necesitas tener instalado:
-
-- [Flutter](https://flutter.dev/docs/get-started/install)
-- [Dart](https://dart.dev/get-dart)
 
 ## Autor
 Erick Caiza
-Francisco Caero
